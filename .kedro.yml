@@ -1,0 +1,6 @@
+context_path: comorbidade_covid.run.ProjectContext
+project_name: "Comorbidade Covid"
+project_version: "0.16.6"
+package_name: "comorbidade_covid"
+hooks:
+  - comorbidade_covid.hooks.project_hooks
